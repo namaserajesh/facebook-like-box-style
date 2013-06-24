@@ -1,0 +1,6 @@
+<div class="TechLilaFB">
+  <div style="height:152px; overflow:hidden"> 
+    <div class="fb-like-box" data-href="YOUR FACEBOOK PAGE URL HERE" data-width="295" data-show-faces="true" data-stream="false" data-show-border="false" data-header="false">
+    </div>
+  </div>
+</div>
