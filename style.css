@@ -1,0 +1,14 @@
+/* Facebook Box CSS 
+------------------------------------------------------------ */
+.TechLilaFB {
+    border-radius: 3px 3px 3px 3px;
+    height: 145px;
+    padding: 5px 10px 15px 0;
+    position: relative;
+    width: 283px;
+}
+
+.TechLilaFB, .TechLilaFB:before, .TechLilaFB:after {
+    border: 1px solid #CCCCCC;
+}
+
